@@ -1,0 +1,26 @@
+.nav-link{
+    color:white;
+    font-size:22px ;
+  }
+
+.nav-link:hover{
+  color: white;
+  font-weight:bolder ;
+  }
+  
+  .active{
+    font-weight:bolder ;
+    color:red !important;
+  }
+  
+  nav{
+   background-color: black !important;
+   .navbar-toggler{
+    background-color: white !important;
+   }
+  }
+
+  .navbar-link-account{
+    color : white;
+    text-decoration: none;
+  }

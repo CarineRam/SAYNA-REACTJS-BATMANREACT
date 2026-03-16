@@ -1,0 +1,20 @@
+/*.hero-image{
+    /*background-image: url(../assets/bg/bg_1.png);
+    background-repeat: no-repeat;
+    
+  }*/
+  
+.hero-title{
+    font-size: 4em;
+    font-weight: bolder;
+    padding-top : 7%;
+    position : absolute;
+    top: 35%;
+
+  }
+
+.backgroundBatman1{
+    width: 100%;   
+  }
+
+

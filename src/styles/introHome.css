@@ -1,0 +1,28 @@
+.Intro {
+    position: absolute;
+    text-align: center;
+    top: 35%;
+    left: 35%;
+    font-size : 20px;
+  }
+
+.backgroundBatman {
+    width: 100%;
+  }
+
+.social {
+    position: absolute;
+    top: 35%;
+    right: 7%;
+  }
+.social .icon {
+    position: relative;
+    left: 40%;
+    margin-top: 30%;
+    margin-bottom: 14%;
+  }
+.flecheBas {
+    position: absolute;
+    top: 90%;
+    left: 48%;
+  }
